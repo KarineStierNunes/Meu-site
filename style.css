@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{ background-color: rgb(197, 124, 29);
+
+
+}
+header{
+    background-color: rgb(168, 93, 6);
+    color: rgb(0, 0, 0);
+    padding: 10px 0; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+li{
+    display: inline-block;
+    margin: 0 16px;
+    justify-content: center;
+}
