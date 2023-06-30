@@ -29,7 +29,36 @@ li{
 display: grid;
 }
 
-.azulzinho{
+.azul{
     grid-row: 2;
-    grid-column: 8;
+    grid-column: 1;
+}
+
+.verde{
+    grid-row: 2;
+    grid-column: 2;
+}
+.amarelo{
+    grid-row: 2;
+    grid-column: 3;
+}
+
+.vermelho{
+    grid-row: 2;
+    grid-column: 4;
+}
+
+.verdelimao{
+    grid-row: 2;
+    grid-column: 5;
+}
+
+.amareloouro{
+    grid-row: 2;
+    grid-column: 6;
+}
+
+.rosaterra{
+    grid-row: 2;
+    grid-column: 7;
 }
